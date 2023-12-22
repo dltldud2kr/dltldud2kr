@@ -1,7 +1,7 @@
 ### About me
 
 <h1 align="center">Hi 👋, This is Siyoung Lee, a developer who codes dreams.</h1>
-<h3 align="center">A passionate Backend. I am studying with the mission of change the world a better than yesterday! developer from India</h3>
+<h3 align="center">A passionate Backend from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
